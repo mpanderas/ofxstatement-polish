@@ -38,7 +38,8 @@ setup(name='ofxstatement-polish',
            'millennium = ofxstatement.plugins.millennium:MillenniumPlugin',
            'paypal = ofxstatement.plugins.paypal:PaypalPlugin',
            'raiffeisen-polbank = ofxstatement.plugins.raiffeisen_polbank:RaiffeisenPolbankPlugin',
-           'walutomat = ofxstatement.plugins.walutomat:WalutomatPlugin']
+           'walutomat = ofxstatement.plugins.walutomat:WalutomatPlugin',
+           'pekaoSA = ofxstatement.plugins.pekaoSA:PEKAOSAPlugin']
           },
       install_requires=['ofxstatement'],
       include_package_data=True,

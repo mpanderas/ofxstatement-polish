@@ -20,4 +20,8 @@ Other supported statements:
 * Walutomat (www.walutomat.pl)
 * Paypal (www.paypal.com)
 
+Planned support for:
+
+* PEKAO SA (www.pekao24.pl)
+
 .. _ofxstatement: https://github.com/kedder/ofxstatement
